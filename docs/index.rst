@@ -6,6 +6,10 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
+.. sutomodule:: django_cityloc_pkg
+   :members: michaelwnau
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
