@@ -20,3 +20,5 @@ Installation
     path('', include('citylocations.urls')),
 
 3. Start the development server and visit http://127.0.0.1:8000/
+
+## Testing has been implemented using dependency injection and pytest
